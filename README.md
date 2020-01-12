@@ -1,1 +1,1 @@
-# JS-homework2-maxim
+# JS-homework2
